@@ -64,7 +64,8 @@ This tool is for personal use only. Users are responsible for compliance with ap
 ## Support
 
 - Submit issues via GitHub
-- Join discussion in [Moxie Owners Forum](https://example.com/forum)
+- Join discussion in [Moxie TikTokk]()
+- Email me your Logs! I need your (`moxie_data_[timestamp]`) logs
 
 ## Building from Source
 
