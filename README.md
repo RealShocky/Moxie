@@ -65,7 +65,7 @@ This tool is for personal use only. Users are responsible for compliance with ap
 
 - Submit issues via GitHub
 - Join discussion in [Moxie TikTokk]()
-- Email me your Logs! I need your [`moxie_data_[timestamp]`] (mailto:mark.varkevisser@execs.com) 
+- Email me your Logs! I need your [`moxie_data_[timestamp]`] (mark.varkevisser@execs.com) 
 
 ## Building from Source
 
